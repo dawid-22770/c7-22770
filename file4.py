@@ -1,1 +1,1 @@
-print("nie wiem")
+print("nie wiem wciaz")

@@ -1,1 +1,1 @@
-print("nwm")
+print("nie wiem")
